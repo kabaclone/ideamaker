@@ -38,7 +38,7 @@
 
 本プライバシーポリシーに関するご質問や、個人情報の削除・修正などのリクエストがある場合は、以下の連絡先までお問い合わせください：
 
-Email: privacy@example.com
+Email: kabaclone [@] gmail.com
 
 ## 変更と更新
 
